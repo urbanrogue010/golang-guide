@@ -1060,6 +1060,7 @@ hmap数据结构中oldbuckets成员指身原bucket，而buckets指向了新申�
 
 如果实现了接收者是值类型的方法，会隐含地也实现了接收者是指针类型的方法。
 ![image](https://github.com/urbanrogue010/golang-guide/assets/16604023/347223d2-0ac9-4527-ae4b-bcbd68ddf5e0)
+![image](https://github.com/urbanrogue010/golang-guide/assets/16604023/d465d473-c599-4542-9248-63d9373f11a2)
 
 
 #### 两者分别在何时使用
